@@ -8,7 +8,7 @@ void subarray(int *arr ,int n) {
             for (int i=start; i<=end; i++) {
                 cout<< arr[i];
 
-            }
+         m   }
             cout<<",  ";
         }
         cout<<endl;
