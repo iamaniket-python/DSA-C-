@@ -16,3 +16,7 @@ IDE: VS Code (or any C++ supported IDE)
 📌 Build strong coding fundamentals
 📌 Prepare for technical interviews
 📌 Track my learning progress on GitHub
+
+👤 Author
+Aniket Shrivastava
+📌 C++ | DSA | Problem Solving
