@@ -10,3 +10,9 @@
 Language: C++
 Compiler: GCC / G++
 IDE: VS Code (or any C++ supported IDE)
+
+🎯 Purpose of This Repository
+📌 Practice C++ regularly
+📌 Build strong coding fundamentals
+📌 Prepare for technical interviews
+📌 Track my learning progress on GitHub
