@@ -12,7 +12,7 @@ Compiler: GCC / G++
 IDE: VS Code (or any C++ supported IDE)
 
 🎯 Purpose of This Repository
-📌 Practice C++ regularly
+📌 Practice C++ regularl
 📌 Build strong coding fundamentals
 📌 Prepare for technical interviews
 📌 Track my learning progress on GitHub
