@@ -10,4 +10,4 @@ void CLearlastbit(int num, int i) {
 int main() {
     CLearlastbit(15,2);
     return 0;
-}
+};
