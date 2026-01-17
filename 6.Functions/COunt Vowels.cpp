@@ -6,7 +6,7 @@ using namespace std;
 int Vowelss(string n) {
     int count = 0;
 
-    for (int i = 0; i <= n; i++) {
+    for (int i = 0; i < n.length(); i++) {
         if (n[i]=='a' || n[i]=='e' || n[i]=='i' || n[i]=='o' || n[i]=='u') {
             count++;
         }
