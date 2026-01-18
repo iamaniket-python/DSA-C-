@@ -17,4 +17,4 @@ int main() {
     cout<< sumElements(arr,size);
     return 0;
 
-}
+};
