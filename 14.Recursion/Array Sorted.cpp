@@ -18,4 +18,4 @@ int main() {
     cout<<isSoreted(arr1,6,0)<<endl;
     cout<<isSoreted(arr2,5,0)<<endl;
     return 0;
-}
+};
