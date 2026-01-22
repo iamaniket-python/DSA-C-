@@ -21,3 +21,6 @@ int main() {
     Number(arr,n);
     return 0;
 }
+
+// Largest nUmber=7
+// Smallest Number=2
