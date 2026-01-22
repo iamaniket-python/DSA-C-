@@ -16,4 +16,4 @@ int main() {
 
     cout<<linearsearch(arr, n,10)<<endl;
     return 0;
-}
+};
