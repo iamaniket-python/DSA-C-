@@ -16,4 +16,4 @@ int main() {
 
     cout<<"Fact is "<< fact(a);
     return 0;
-}
+};
