@@ -20,7 +20,7 @@ int main() {
     int n= sizeof(arr)/ sizeof(int);
     Number(arr,n);
     return 0;
-}
+};
 
 // Largest nUmber=7
 // Smallest Number=2
