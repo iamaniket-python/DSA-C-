@@ -17,4 +17,4 @@ int main() {
     int n =6;
     Subarray(arr,n);
     return 0;
-}
+};
