@@ -10,7 +10,7 @@ void maxProfit(int *prices, int n){
     }
     int maxProfit=0;
     for(int i=0; i<n; i++){
-        int currProfit=prices[i]- bestBuy[i]
+        int currProfit=prices[i]- bestBuy[i];
         maxProfit =max(maxProfit, currProfit);
     }
     cout<<"Max Profit"<<maxProfit<<endl;
