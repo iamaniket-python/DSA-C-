@@ -24,4 +24,5 @@ int main() {
     int n= sizeof(prices)/ sizeof(int);
     maxProfit(prices,n);
     return 0;
-};
+}
+;
