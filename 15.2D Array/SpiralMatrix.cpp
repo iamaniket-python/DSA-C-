@@ -22,6 +22,7 @@ void spiralMatrix(int mat[][4] ,int n,int m) {
             }
             cout<<mat[erow][j]<<" ";
         }
+        // left
         for (int i=erow-1; i>=srow+1; i--) {
             if (scol == ecol) {
                 break;
@@ -41,4 +42,4 @@ int main() {
     spiralMatrix(matrix, 3, 4);
 
     return 0;
-}
+};
