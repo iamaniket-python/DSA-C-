@@ -23,7 +23,7 @@ int main() {
             cout<<"Total Odd count="<<oddCount<<endl;
 
             return 0;
-}
+};
 
 
 
