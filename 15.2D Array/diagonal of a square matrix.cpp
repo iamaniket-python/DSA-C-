@@ -13,7 +13,7 @@ int main() {
         cout<<arr[i][i]<<" ";
     }
     return 0;
-}
+};
 
 
 
