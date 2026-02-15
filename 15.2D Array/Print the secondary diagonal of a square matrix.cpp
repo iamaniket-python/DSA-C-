@@ -14,5 +14,5 @@ int main() {
         cout<<arr[i][n-1-i]<<" ";
     }
     return 0;
-}
+};
 
