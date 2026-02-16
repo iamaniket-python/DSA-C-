@@ -18,4 +18,4 @@ int main() {
         }
         cout<<"Total count ="<<count;
         return count;
-    }
+    };
