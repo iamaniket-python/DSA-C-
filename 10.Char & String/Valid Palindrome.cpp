@@ -21,4 +21,4 @@ int main() {
 
     ispalidrome(word,strlen(word));
     return 0;
-}
+};
