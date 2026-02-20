@@ -14,7 +14,7 @@ void reverseString(string &str) {
 }
 
 int main() {
-    string str = "Hello";
+    string str = "Aniket Shrivastava";
     reverseString(str);
     cout << str;
     return 0;
