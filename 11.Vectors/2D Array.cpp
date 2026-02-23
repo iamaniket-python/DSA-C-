@@ -24,4 +24,4 @@ int main() {
     cout<<matrix[2][2]<<endl;
     cout<< *((matrix +2)+2);
     return 0;
-}
+};
