@@ -20,4 +20,4 @@ IDE: VS Code (or any C++ supported IDE)
 
 📌 C++ | DSA | Problem Solving
 👤 Author
-Aniket Shrivastava
+Aniket Srivastava
