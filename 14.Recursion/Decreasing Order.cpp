@@ -11,4 +11,4 @@ void print(int n) {
 int main() {
     print(5);
     return 0;
-}
+};
